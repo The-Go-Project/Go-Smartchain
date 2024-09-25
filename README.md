@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/consensys/quorum/master/logo.png" width="200" height="35"/>
+# <img src="https://github.com/The-Go-Project/Go-Smartchain/blob/master/go-logo.png" width="200" height="35"/>
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
@@ -24,16 +24,11 @@ Key enhancements over go-ethereum:
 * __Higher Performance__ - Go-Smartchain offers significantly higher performance throughput than public geth
 
 
-
-## Quickstart
-The easiest way to get started is to use * [quorum-dev-quickstart](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/using-the-quickstart/) - a command line tool that allows users to set up a development GoQuorum network on their local machine in less than *2 minutes*.
-
-
 ## Third Party Tools/Libraries
 
 The following Go-Smartchain related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Go-Smartchain!
 
-* [Chainlens Blockchain Explorer](https://github.com/web3labs/chainlens-free) - a Blockchain Explorer for Go-Smartchain which supports viewing private transactions
+* [Go-Explorer Blockchain Explorer](https://github.com/The-Go-Project/Go-Explorer) - a Blockchain Explorer for Go-Smartchain which supports viewing private transactions
 * [ERC20 REST service](https://github.com/web3labs/erc20-rest-service) - a Go-Smartchain supported RESTful service for creating and managing ERC-20 tokens
 
 
