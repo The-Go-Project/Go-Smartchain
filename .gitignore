@@ -4,6 +4,22 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile ~/.gitignore_global
 
+
+# ZK Snark ignored fles
+
+/Zk_Snark/circom/site/
+/Zk_Snark/circom/target/
+/Zk_Snark/circom/circom/target/
+/Zk_Snark/circom/circom_algebra/target/
+/Zk_Snark/circom/compiler/target/
+/Zk_Snark/circom/constraint_generation/target/
+/Zk_Snark/circom/parser/target/
+/Zk_Snark/circom/program_structure/target/
+/Zk_Snark/circom/type_analysis/target/
+/Zk_Snark/circom/.idea/
+/Zk_Snark/circom/.vscode/
+/Zk_Snark/circom/.DS_Store
+
 /tmp
 */**/*un~
 */**/*.test
