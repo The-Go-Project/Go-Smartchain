@@ -1,0 +1,18 @@
+=============== Sep 25, 2024 (UTC) ===============
+11:14:00.811103 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:14:00.816268 db@open opening
+11:14:00.816547 version@stat F·[] S·0B[] Sc·[]
+11:14:00.818124 db@janitor F·2 G·0
+11:14:00.818142 db@open done T·1.863398ms
+11:14:00.818603 db@close closing
+11:14:00.818625 db@close done T·21.64µs
+=============== Sep 25, 2024 (UTC) ===============
+11:16:09.924553 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:16:09.924657 version@stat F·[] S·0B[] Sc·[]
+11:16:09.924667 db@open opening
+11:16:09.924700 journal@recovery F·1
+11:16:09.936513 journal@recovery recovering @1
+11:16:09.938911 memdb@flush created L0@2 N·15 S·1KiB "\x04\\\xcc..\xb7\xf9\xa5,v4":"sec..\x110],v1"
+11:16:09.941182 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+11:16:09.947284 db@janitor F·3 G·0
+11:16:09.947296 db@open done T·22.624416ms
